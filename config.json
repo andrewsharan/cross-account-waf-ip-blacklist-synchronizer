@@ -1,0 +1,13 @@
+{
+  "accounts": [
+    {
+      "account_id": "Target Account ID",
+      "account_name": "Target Account Name",
+      "role_arn": "Cross Account IAM Role ARN",
+      "ipset_id": "IPSet ARN",
+      "ipset_name": "IPSet Name",
+      "region": "AWS Region Identifier"
+    }
+  ]
+}
+
