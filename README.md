@@ -1,1 +1,1 @@
-# cross-account-waf-ip-blacklist-synchronizer
+# CROSS ACCOUNT WAF IP BLACKLIST SYNCHRONIZER
